@@ -18,6 +18,7 @@ Shorten your urls with URL Shorterner!
 You can contract me through my Discord - ReservedSnow.eth#9726 or [Twitter](https://twitter.com/ReservedSnow) or [Linktree](https://linktr.ee/reservedsnow)
 
 # Demo
+![image](https://user-images.githubusercontent.com/85065107/202916026-95dc50bf-44c0-44b8-b19b-1a6e8ec4f526.png)
 
 
 # Tips
