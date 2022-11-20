@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# URL-Shortner
+Shorten your urls with URL Shorterner!
+
+# Features
+- Free of Cost
+- Easy to use
+- Cool UI 
+- Dark Mode
+- Can run it locally or Use the Demolink provided
+- Enjoy!
+
+# Stack
+- Reactjs
+- Tailwind CSS
+- Shrtco API
+
+# Support 
+You can contract me through my Discord - ReservedSnow.eth#9726 or [Twitter](https://twitter.com/ReservedSnow) or [Linktree](https://linktr.ee/reservedsnow)
+
+# Demo
+
+
+# Tips
+- ETH/Polygon/Bsc: 0x119a5a09526ff53e26ff641d64d0d993cff107c1
+
+- Solana: 5VrRcctapQ2chk9cCdcaMEGgTtVPR71fasy7YDr7jLcQ
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +34,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -19,7 +47,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `npm run production`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -65,6 +93,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run production` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
