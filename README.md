@@ -6,6 +6,7 @@ Shorten your urls with URL Shorterner!
 - Easy to use
 - Cool UI 
 - Dark Mode
+- Responsive
 - Can run it locally or Use the Demolink provided
 - Enjoy!
 
